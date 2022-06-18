@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a7ee65d.css",
+    "main.js": "/static/js/main.e3e54c65.js",
+    "static/js/787.2558b325.chunk.js": "/static/js/787.2558b325.chunk.js",
+    "static/media/polygon.jpg": "/static/media/polygon.e79206184781275ca1b0.jpg",
+    "index.html": "/index.html",
+    "main.0a7ee65d.css.map": "/static/css/main.0a7ee65d.css.map",
+    "main.e3e54c65.js.map": "/static/js/main.e3e54c65.js.map",
+    "787.2558b325.chunk.js.map": "/static/js/787.2558b325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a7ee65d.css",
+    "static/js/main.e3e54c65.js"
+  ]
+}
